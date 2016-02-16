@@ -1,0 +1,7 @@
+; this program shows a streak flashing accross the screen
+
+ubyte Pos 0
+
+:main
+add pos 1
+jmp main

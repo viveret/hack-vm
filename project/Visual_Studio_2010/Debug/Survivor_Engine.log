@@ -1,0 +1,20 @@
+﻿Build started 11/3/2013 1:47:25 PM.
+     1>Project "F:\Programming\Survivor_Universe\Survivor_Engine\project\Visual_Studio_2010\Survivor_Engine.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Survivor_Engine.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(992,5): warning MSB8012: TargetName(..\..\..\build\Survivor_Engine) does not match the Linker's OutputFile property value (Survivor_Engine). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+       Link:
+         All outputs are up-to-date.
+         Survivor_Engine.vcxproj -> F:\Programming\Survivor_Universe\Survivor_Engine\project\Visual_Studio_2010\Debug\..\..\..\build\Survivor_Engine.exe
+       CopyFilesToOutputDirectory:
+         Copying file from "Debug\..\..\..\build\Survivor_Engine.pdb" to "F:\Programming\Survivor_Universe\Survivor_Engine\project\Visual_Studio_2010\Debug\Survivor_Engine.pdb".
+       FinalizeBuildStatus:
+         Deleting file "Debug\Survivor_Engine.unsuccessfulbuild".
+         Touching "Debug\Survivor_Engine.lastbuildstate".
+     1>Done Building Project "F:\Programming\Survivor_Universe\Survivor_Engine\project\Visual_Studio_2010\Survivor_Engine.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.50

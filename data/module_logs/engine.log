@@ -1,0 +1,17 @@
+ (Linux) Pre-Alpha,  : , Nov  8 2013, 16:14:47
+Initializing Survivor Engine, 12 Module(s)...
+Initialized all modules
+Initializing threads...
+Initialized Threads
+Initializing user-space...
+
+Key 0x1 changed
+GL: New tex: 1
+GL: New tex: 2
+Key 0x4 changed
+Shutdown By Input
+Shutting down...
+
+Cleaning user-space...
+Cleaning Survivor Engine, 12 Module(s)
+Cleaned all modules
